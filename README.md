@@ -45,7 +45,7 @@ Ambas versiones comparten un núcleo de análisis potente basado en **Scapy** y 
 Clona el repositorio e instala las dependencias necesarias. Se recomienda usar un entorno virtual (`venv`).
 
 ```bash
-git clone [https://github.com/robertotejado/pcap-dashboard.git](https://github.com/tu-usuario/pcap-dashboard.git)
+git clone [https://github.com/robertotejado/pcap-dashboard.git](https://github.com/robertotejado/pcap-dashboard.git)
 cd pcap-dashboard
 
 ```
