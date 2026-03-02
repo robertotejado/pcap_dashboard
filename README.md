@@ -22,7 +22,7 @@ El proyecto incluye dos versiones independientes para adaptarse a tus necesidade
 
 ### 🌐 Web Edition (Dash)
 *Interfaz moderna, interactiva y accesible desde el navegador.*
-![Web Dashboard](PCAP-Dashboard-Web.jpg)
+![Web Dashboard](PCAP-Dashboard-Web.png)
 
 ---
 
